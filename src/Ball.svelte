@@ -13,5 +13,6 @@
     position: absolute;
     border: solid black 1px;
     background-color: goldenrod;
+    border-radius: 50%;
   }
 </style>

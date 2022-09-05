@@ -6,7 +6,7 @@
 
   setInterval(() => {
     frame = game.nextFrame();
-  }, 100);
+  }, 10);
 </script>
 
 <main style="width: {frame.width}px; height: {frame.height}px;" class="game" />
