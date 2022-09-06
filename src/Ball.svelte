@@ -12,7 +12,7 @@
   #ball {
     position: absolute;
     border: solid black 1px;
-    background-color: goldenrod;
+    background-color: greenyellow;
     border-radius: 50%;
   }
 </style>
